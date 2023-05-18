@@ -1,0 +1,121 @@
+#container {
+    width: 900px;
+    height: 1060px;
+    padding: 20px;
+    background-color:whitesmoke;
+    margin: 40px;
+    align-items: center; 
+    justify-content: center;
+}
+
+#title {
+    font-size: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkred;
+    text-align: center;
+    font-weight:bold;
+}
+
+#pbloque {
+    width: 820px;
+    height: 250px;
+    margin: 20px;
+    background-color: darkseagreen;
+    padding: 15px;
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+}
+
+img.dj {
+
+    width: 300px;
+    height: 200px;
+    margin: 15px;
+}
+
+img.mummy {
+    width:300px;
+    height: 200px;
+    margin: 15px;
+}
+
+
+img.death {
+
+    width:300px;
+    height: 200px;
+    margin: 15px;
+}
+
+#sbloque {
+    width: 820px;
+    height: 250px;
+    margin: 20px;
+    background-color: #f598bd;
+    padding: 15px;
+    display: flex;
+    align-items: center; 
+    justify-content: space-evenly;
+}
+
+img.daftcat {
+
+    width: 300px;
+    height: 200px;
+    margin: 15px;
+}
+
+img.eyes {
+    width:300px;
+    height: 200px;
+    margin: 15px;
+}
+
+#tbloque {
+    width: 820px;
+    height: 250px;
+    margin: 20px;
+    background-color: #ebcf49;
+    padding: 15px;
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+}
+
+img.nyantocat {
+
+    width: 300px;
+    height: 200px;
+    margin: 15px;
+}
+
+img.droid {
+    width:300px;
+    height: 200px;
+    margin: 15px;
+}
+
+img.grinch {
+    width:300px;
+    height: 200px;
+    margin: 15px;
+}
+
+#ending {
+
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkslategrey;
+    font-size: 20px;
+
+}
+
+p {
+    margin-right: 6px;
+}
+
+
+
